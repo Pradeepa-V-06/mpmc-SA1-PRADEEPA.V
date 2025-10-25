@@ -9,6 +9,7 @@ APPARATUS REQUIRED
 Personal computer
 
 ALGORITHM:
+
  1: Start the program.
  
  2: Initialize the data segment (DS).
