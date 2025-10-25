@@ -50,8 +50,10 @@ PROGRAM:
     int 21h
     code ends
     end
+    
 OUTPUT
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b6658732-9115-42ad-9d5f-24d8b7819143" />
+
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/15dec09e-7d83-45d0-90e2-c188cf5c32d8" />
 
 MANUAL CALCULATION
